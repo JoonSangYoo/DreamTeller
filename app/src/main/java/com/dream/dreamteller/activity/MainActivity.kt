@@ -1,7 +1,8 @@
-package com.dream.dreamteller
+package com.dream.dreamteller.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.dream.dreamteller.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
